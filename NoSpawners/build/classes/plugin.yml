@@ -1,0 +1,10 @@
+name: NoSpawners
+version: 1.0
+main: com.gcycloned.nospawn.init.PrincipalNoSpawn
+author: cycloned
+website: www.gcycloned.com
+
+commands:
+    nospawners:
+        description: Set the world to remove the spawners
+        usage: /nospawners
